@@ -1,5 +1,5 @@
 # classical-algorighom
-These are several classical algorithms with high popularity and brilliant solutions.Including:
+These are several classical algorithms with high popularity and brilliant solutions, including:
 1. ReCursion
 2. BackTrack
 3. Divide and Conquer
